@@ -1,0 +1,129 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "이재준",
+    "label": "데이터 엔지니어",
+    "image": "https://i.imgur.com/EfyC7Gg.jpeg",
+    "email": "dev.jaejun.lee.1991@gmail.com",
+    "phone": "(+82) 10-9489-4787",
+    "url": "https://jx2lee.netlify.app/",
+    "summary": "",
+    "location": {
+      "address": "강동구",
+      "postalCode": "",
+      "city": "서울특별시",
+      "countryCode": "KR",
+      "region": "대한민국"
+    },
+    "profiles": [
+      {
+        "network": "Career Summary",
+        "url": "https://jx2lee.github.io/resume-kr"
+      },
+      {
+        "network": "Github",
+        "username": "jx2lee",
+        "url": "https://github.com/jx2lee"
+      },
+      {
+        "network": "Contributions",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "코인원",
+      "location": "서울, 대한민국",
+      "position": "크루/데이터 엔지니어",
+      "url": "https://www.coinonecorp.com/",
+      "startDate": "2022-09-26",
+      "endDate": "2024-06-23",
+      "summary": "코인원은 국내 5대 가상자산 거래소 중 하나로, 고객자산의 안전을 최우선으로 하며 편리하고 기술력 높은 안정적인 서비스를 제공합니다.",
+      "highlights": [
+        "배치/실시간 데이터 파이프라인을 만들고 운영합니다.",
+        "신뢰할 수 있는 지표저장소를 만들고 운영합니다.",
+        "self-serve-data 환경을 위한 오픈소스 도구를 제공 & 배포합니다."
+      ]
+    },
+    {
+      "name": "NHN Enterprise",
+      "location": "성남시, 대한민국",
+      "position": "전임/클라우드 운영팀",
+      "url": "https://www.nhnenterprise.com/",
+      "startDate": "2020-11-30",
+      "endDate": "2022-09-14",
+      "summary": "NHN 엔터프라이즈는 고성능 & 안정성을 제공하는 국내 클라우드 NHN Cloud 를 운영합니다.",
+      "highlights": [
+        "로그 데이터 플랫폼인 Log & Crash Search 를 운영합니다.",
+        "NHN Cloud 서비스 배포 및 배포 파이프라인을 관리합니다."
+      ]
+    },
+    {
+      "name": "Tmax Data",
+      "location": "성남시, 대한민국",
+      "position": "매니저/BI 기술팀",
+      "url": "https://www.tmax.co.kr",
+      "startDate": "2018-08-01",
+      "endDate": "2022-11-27",
+      "summary": "티맥스는 ERP, AI, BIG DATA 핵심 기술을 기반으로 혁신적인 경영을 위한 비즈니스 솔루션을 제공합니다.",
+      "highlights": [
+        "데이터 제품(빅데이터 플랫폼 HyperData) 기술지원 합니다.",
+        "POC(Proof Of Concept) & 프로젝트를 지원 합니다."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "국민대학교",
+      "url": "https://www.kookmin.ac.kr/user/index.do",
+      "area": "데이터사이언스",
+      "studyType": "석사",
+      "startDate": "2016-09-01",
+      "endDate": "2018-08-01",
+      "score": "4.5"
+    },
+    {
+      "institution": "국민대학교",
+      "url": "https://www.kookmin.ac.kr/user/index.do",
+      "area": "수학과",
+      "studyType": "학사",
+      "startDate": "2010-03-02",
+      "endDate": "2016-02-01",
+      "score": "3.45"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Data Engineering",
+      "keywords": [
+        "ELT pipeline(batch/streaming)",
+        "Public Cloud(AWS, GCP)",
+        "Operate Metric Store",
+        "Data Modeling"
+      ]
+    },
+    {
+      "name": "Programming Languages",
+      "keywords": [
+        "Python",
+        "Java",
+        "Go/Rust(관심)"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "keywords": [
+        "오픈소스 기여하기",
+        "운동(크로스핏)",
+        "기나긴 출근길에 서서 책 읽기"
+      ]
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
