@@ -99,7 +99,7 @@
       "keywords": [
         "ELT pipeline(batch/streaming)",
         "Public Cloud(AWS, GCP)",
-        "Operate Metric Store",
+        "Maintained Metric Store",
         "Data Modeling"
       ]
     },
@@ -109,6 +109,14 @@
         "Python",
         "Java",
         "Go/Rust(관심)"
+      ]
+    },
+    {
+      "name": "Collaboration",
+      "keywords": [
+        "Git(Github/BitBucket)",
+        "Jira/Confluence",
+        "JetBrains"
       ]
     }
   ],
