@@ -2,8 +2,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "start-kr": "resumed --theme jsonresume-theme-paper resume-kr.json --output resume-kr.html",
-    "start-en": "resumed --theme jsonresume-theme-paper resume-en.json --output resume-en.html"
+    "kr": "resumed --theme jsonresume-theme-paper resume-kr.json --output resume-kr.html",
+    "en": "resumed --theme jsonresume-theme-paper resume-en.json --output resume-en.html"
   },
   "dependencies": {
     "jsonresume-theme-paper": "^0.5.0",
