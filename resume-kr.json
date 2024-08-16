@@ -17,8 +17,8 @@
     },
     "profiles": [
       {
-        "network": "Career Summary",
-        "url": "https://jx2lee.github.io/career-summary-kr"
+        "network": "Projects",
+        "url": "https://jx2lee.vercel.app/projects/project-overview"
       },
       {
         "network": "Github",
@@ -27,7 +27,7 @@
       },
       {
         "network": "Contributions",
-        "url": ""
+        "url": "https://jx2lee.vercel.app/etc/__/opensource-contributing"
       }
     ]
   },
