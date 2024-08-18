@@ -18,7 +18,7 @@
     "profiles": [
       {
         "network": "Projects",
-        "url": "https://jx2lee.vercel.app/projects/project-overview"
+        "url": "https://jx2lee.vercel.app/projects"
       },
       {
         "network": "Github",
