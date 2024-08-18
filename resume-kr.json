@@ -9,7 +9,7 @@
     "url": "https://jx2lee.vercel.app",
     "summary": "",
     "location": {
-      "address": "강동구",
+      "address": "마포구 서교동",
       "postalCode": "",
       "city": "서울특별시",
       "countryCode": "KR",
@@ -17,17 +17,16 @@
     },
     "profiles": [
       {
+        "network": "Github",
+        "url": "https://github.com/jx2lee"
+      },
+      {
         "network": "Projects",
         "url": "https://jx2lee.vercel.app/projects"
       },
       {
-        "network": "Github",
-        "username": "jx2lee",
-        "url": "https://github.com/jx2lee"
-      },
-      {
         "network": "Contributions",
-        "url": "https://jx2lee.vercel.app/etc/__/opensource-contributing"
+        "url": "https://jx2lee.vercel.app/opensource-contributions"
       }
     ]
   },
