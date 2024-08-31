@@ -1,0 +1,132 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Jaejun Lee",
+    "label": "Data Engineer",
+    "image": "https://i.imgur.com/EfyC7Gg.jpeg",
+    "email": "dev.jaejun.lee.1991@gmail.com",
+    "phone": "(+82) 10-9489-4787",
+    "url": "https://jx2lee.vercel.app",
+    "summary": "",
+    "location": {
+      "address": "Seogyo-dong, Mapo-gu",
+      "postalCode": "",
+      "city": "Seoul",
+      "countryCode": "KR",
+      "region": "South Korea"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "url": "https://github.com/jx2lee"
+      },
+      {
+        "network": "Contributions",
+        "url": "https://jx2lee.vercel.app/opensource-contributions"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Coinone",
+      "location": "Seoul, South Korea",
+      "position": "Data Engineer",
+      "url": "https://www.coinonecorp.com/",
+      "startDate": "2022-09-26",
+      "summary": "Coinone is one of the top 5 cryptocurrency exchanges in South Korea, prioritizing the security of customer assets providing a convenient and technologically advanced stable service.",
+      "highlights": [
+        "Develop and operate batch/real-time data pipelines.",
+        "Create and manage reliable Metric Store.",
+        "Provide and deploy open-source tools for self-serve data.",
+        "Develop service for data."
+      ]
+    },
+    {
+      "name": "NHN Enterprise",
+      "location": "Seongnam, South Korea",
+      "position": "Cloud Operation Team",
+      "url": "https://www.nhnenterprise.com/",
+      "startDate": "2020-11-30",
+      "endDate": "2022-09-14",
+      "summary": "NHN Enterprise operates NHN Cloud, the cloud service that offers high performance and reliability.",
+      "highlights": [
+        "Operate and manage Log & Crash Search, the log data platform.",
+        "Operate NHN Cloud service deployments and develop CI/CD pipelines."
+      ]
+    },
+    {
+      "name": "Tmax Data",
+      "location": "Seongnam, South Korea",
+      "position": "BI Technology Team",
+      "url": "https://www.tmax.co.kr",
+      "startDate": "2018-08-01",
+      "endDate": "2020-11-27",
+      "summary": "Tmax provides business solutions for innovative management, based on technologies in ERP, AI, and Data.",
+      "highlights": [
+        "Provide technical support for data products (Big Data platform, HyperData).",
+        "Support POC & projects."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Kookmin University",
+      "url": "https://www.kookmin.ac.kr",
+      "area": "Data Science",
+      "studyType": "Master",
+      "startDate": "2016-09-01",
+      "endDate": "2018-08-01",
+      "score": "4.5"
+    },
+    {
+      "institution": "Kookmin University",
+      "url": "https://www.kookmin.ac.kr",
+      "area": "Mathematics",
+      "studyType": "Bachelor",
+      "startDate": "2010-03-02",
+      "endDate": "2016-02-01",
+      "score": "3.45"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Data Engineering",
+      "keywords": [
+        "ELT pipeline(batch/streaming)",
+        "Public Cloud(AWS, GCP)",
+        "Maintained Metric Store",
+        "Data Modeling"
+      ]
+    },
+    {
+      "name": "Programming Languages",
+      "keywords": [
+        "Python",
+        "Java",
+        "Go/Rust(interest)"
+      ]
+    },
+    {
+      "name": "Collaboration",
+      "keywords": [
+        "Git(Github/BitBucket)",
+        "Jira/Confluence",
+        "JetBrains"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "keywords": [
+        "Opensource contribution",
+        "CrossFit",
+        "Reading books during a long commute"
+      ]
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
