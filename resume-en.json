@@ -21,6 +21,10 @@
         "url": "https://github.com/jx2lee"
       },
       {
+        "network": "Projects",
+        "url": "https://jx2lee.vercel.app/projects"
+      },
+      {
         "network": "Contributions",
         "url": "https://jx2lee.vercel.app/opensource-contributions"
       }
